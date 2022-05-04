@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I´m a developer with 7 years experience and i know **Java**, JavaScript, Python. Also, i know cloud technologies how **AWS**
