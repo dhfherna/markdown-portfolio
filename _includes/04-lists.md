@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* I cook 🧑‍🍳
+* I play videogames 🎮
+  * Call of Duty
+  * Halo
+  * Civilization
+* I travel 🏍️
+* I like animals 🐈‍⬛
